@@ -119,6 +119,7 @@ html{
     left: 4.5%;
     font-size: 20px; 
     text-align: center;
+    padding: 10px;
 }
 .slide-button{
     display: flex;
@@ -128,7 +129,7 @@ html{
 }
 .slide-button button{
     width: 130px;
-    padding: 8px;
+    padding: 1.2vw;
     font-size: 13px; 
     
 }
@@ -363,7 +364,7 @@ html{
     padding-left: 2px;
 }
 .filter_section1 label{
-    font-size: 1.8vw;
+    font-size: 1.5vw;
 }
 .filter_section1 h1{
     margin-top: 25px;
