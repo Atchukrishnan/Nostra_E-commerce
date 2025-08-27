@@ -126,7 +126,6 @@ html{
     flex-direction: column;
     gap: 1.2vw;
     align-items: center;
-    margin-bottom: 5px;
 }
 .slide-button button{
     width: 12.4vw;
