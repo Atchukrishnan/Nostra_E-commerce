@@ -126,6 +126,7 @@ html{
     flex-direction: column;
     gap: 1.2vw;
     align-items: center;
+    margin-bottom: 5px;
 }
 .slide-button button{
     width: 130px;
@@ -359,10 +360,6 @@ html{
     font-size: 1.2vw;
     align-items: start;
 }
-.filter_section1 input[type="checkbox"]{
-    transform: scale(1);
-    padding-left: 2px;
-}
 .filter_section1 label{
     font-size: 1.5vw;
 }
@@ -395,7 +392,6 @@ html{
     margin-top: 0.6vw;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     flex-wrap: wrap;
     flex-basis: 75%;
     position: relative;
